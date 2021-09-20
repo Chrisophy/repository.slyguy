@@ -4,7 +4,7 @@
     <dir>
 		<info compressed="false">https://raw.githubusercontent.com/Chrisophy/repository.slyguy/main/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Chrisophy/repository.slyguy/main/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/Chrisophy/repository.slyguy/raw/main/</datadir>
+        <datadir zip="true">https://github.com/Chrisophy/raw/main/repository.slyguy/</datadir>
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">

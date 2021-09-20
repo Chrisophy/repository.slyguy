@@ -22,7 +22,7 @@
   </extension>
 </addon>
   
-<addon id="script.module.slyguy" name="SlyGuy Common" provider-name="SlyGuy" version="5.35.8">
+<addon id="script.module.slyguy" name="SlyGuy Common" provider-name="SlyGuy" version="5.35.9">
   <requires>
     <import addon="repository.slyguy"/>
   </requires>

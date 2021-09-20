@@ -2,9 +2,9 @@
 <addon id="repository.slyguy" name="SlyGuy Repository" provider-name="SlyGuy" version="0.0.2">
   <extension point="xbmc.addon.repository" name="SlyGuy Repository">
     <dir>
-		<info compressed="false">https://umsonst-zocken.de/repo/easytvX1/addons.xml</info>
-        <checksum>https://umsonst-zocken.de/repo/easytvX1/addons.xml.md5</checksum>
-        <datadir zip="true">https://umsonst-zocken.de/repo/easytvX1/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/Chrisophy/repository.slyguy/main/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Chrisophy/repository.slyguy/main/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/Chrisophy/repository.slyguy/</datadir>
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">

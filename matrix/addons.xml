@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="script.module.resolveurl" name="ResolveURL" version="5.1.157" provider-name="gujal">
     <requires>
